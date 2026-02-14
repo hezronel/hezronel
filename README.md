@@ -17,10 +17,10 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 - 💳 **Monetization**: Production-ready In-App Purchase (IAP) integration powered by **RevenueCat**.
 - 🛠️ **Tools**: Android Studio, Xcode, VSCode, Figma, Git, SourceTree
 
-> [!TIP]
-> **iOS Status:** The iOS version is currently in the pipeline and is planned for release following the Android market validation phase. This demonstrates a strategic, scalable approach to cross-platform deployment.
-
-[**View on Play Store**](https://play.google.com/store/apps/details?id=com.hezronel.trafet) | *DM me to join the testing group!*
+> [!NOTE]
+> **Trafet** is currently in **Closed Testing** to ensure the best user experience.
+> - **Android:** [Request Beta Access](mailto:hezronel.dev@gmail.com?subject=Trafet%20Beta%20Access) (Please provide your Play Store email).
+> - **iOS:** Slated for release following the Android phase.
 
 ---
 
