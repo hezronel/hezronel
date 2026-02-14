@@ -55,3 +55,11 @@ I am open to **Freelance Projects**, **Collaborations**, or **Technical Consulta
 <p align="center">
   <i>"Building the future, one commit at a time."</i>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hezronel&show_icons=true&theme=radical&count_private=true" alt="Hezron Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hezronel&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="150" />
+</p>
+
