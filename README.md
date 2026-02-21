@@ -5,7 +5,7 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 
 ---
 
-## 🚀 Featured Project: Trafet (In Closed Testing)
+## 🚀 Featured Project: Trafet
 **Trafet** is a high-performance **Map & Travel** assistant. It demonstrates a robust implementation of **Compose Multiplatform (CMP)** with a strong focus on shared business logic and reactive UI.
 
 - 🧪 **Tech Stack**: Kotlin / Compose Multiplatform (KMP), Node.js Cloud Functions, and Firestore.
@@ -17,10 +17,10 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 - 💳 **Monetization**: Production-ready In-App Purchase (IAP) integration powered by **RevenueCat**.
 - 🛠️ **Tools**: Android Studio, Xcode, VSCode, Figma, Git, SourceTree
 
-> [!NOTE]
-> **Trafet** is currently in **Closed Testing** to ensure the best user experience.
-> - **Android:** [Request Beta Access](mailto:hezronel.dev@gmail.com?subject=Trafet%20Beta%20Access) (Please provide your Play Store email).
-> - **iOS:** Slated for release following the Android phase.
+> [!TIP]
+> **Trafet** is now available on Android! Get the latest version directly from the Play Store.
+> - **Android:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.hezronel.trafet)
+> - **iOS:** Slated for release following the Android growth phase.
 
 ---
 
