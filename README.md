@@ -1,11 +1,33 @@
-# Hi there, I'm Hezron 👋 
+# Hi there, I'm Hezron 👋
+
 ### Multiplatform Mobile & Full-stack Web Developer
 
 I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building high-performance, scalable applications. From **iOS Native** and **Modern Android (Jetpack Compose)** to **Serverless Backends**, I bridge the gap between **Clean Architecture** and intuitive user experiences. I focus on creating seamless digital products that are not only beautiful but also production-ready and architecturally sound.
 
 ---
 
+## 🍳 Featured Project: Flavora
+
+**Flavora** is an **AI-powered recipe generator** that turns ingredients, preferences, and dietary needs into personalized, step-by-step recipes. Built to serve a global audience from day one, with a production-grade backend and a monetization-ready architecture.
+
+- 🧪 **Tech Stack**: Kotlin Multiplatform (KMP), Jetpack Compose, Supabase (Auth, Postgres, Edge Functions), Room, Koin.
+- 🤖 **AI Integration**: Recipe generation and conversational recipe tweaking powered by **Google Gemini**, with server-side prompt orchestration via Supabase Edge Functions.
+- 🏗️ **Architecture**: Clean, modular KMP codebase with **Koin** for dependency injection and **Room** for offline-first local persistence.
+- 👨‍🍳 **Core Features**: AI recipe generation, chat-like **Tweak Recipe** iteration, guided **Cooking Mode**, recipe saving & filtering, and **Share Recipe** with App Links deep linking.
+- 🌍 **Global-ready**: Supports 6 languages (English, German, French, Spanish, Italian, Indonesian) targeting the US, Canadian, and European markets.
+- 💳 **Monetization**: In-app purchases and entitlements managed with **RevenueCat KMP**.
+- 📡 **Infrastructure**: Firebase Hosting for App Links verification (`assetlinks.json`) and web presence.
+
+> [!TIP]
+> **Flavora** is now available on Android! Get the latest version directly from the Play Store.
+>
+> - **Android:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.hezronel.flavora)
+> - **iOS:** Slated for release following the Android growth phase.
+
+---
+
 ## 🚀 Featured Project: Trafet
+
 **Trafet** is a high-performance **Map & Travel** assistant. It demonstrates a robust implementation of **Compose Multiplatform (CMP)** with a strong focus on shared business logic and reactive UI.
 
 - 🧪 **Tech Stack**: Kotlin / Compose Multiplatform (KMP), Node.js Cloud Functions, and Firestore.
@@ -19,6 +41,7 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 
 > [!TIP]
 > **Trafet** is now available on Android! Get the latest version directly from the Play Store.
+>
 > - **Android:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.hezronel.trafet)
 > - **iOS:** Slated for release following the Android growth phase.
 
@@ -26,14 +49,14 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 
 ## 🛠 Tech Stack & Tools
 
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **Mobile (Native/Hybrid)** | Kotlin (Jetpack Compose), Swift (SwiftUI), Compose Multiplatform (CMP/KMP), Objective-C |
-| **Backend & Cloud** | Node.js (Cloud Functions), Google Cloud Tasks, Firebase (Auth, Messaging, Remote Config), REST API Integration |
-| **Database & Persistence** | Firestore, Kstore (Mobile Cache), SwiftData, CoreData, SQL |
-| **Architecture & State** | Clean Architecture (Domain/DTO/Data), MVVM/MVI, StateFlow & SharedFlow, Reactive Programming |
-| **Web & Full-stack** | JavaScript, HTML5, CSS3, Node.js (Cloud Functions) |
-| **Design & Tools** | Figma, Android Studio, Xcode, Git (SourceTree), VSCode |
+| Category                   | Skills & Technologies                                                                                          |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------- |
+| **Mobile (Native/Hybrid)** | Kotlin (Jetpack Compose), Swift (SwiftUI), Compose Multiplatform (CMP/KMP), Objective-C                        |
+| **Backend & Cloud**        | Node.js (Cloud Functions), Google Cloud Tasks, Firebase (Auth, Messaging, Remote Config), REST API Integration |
+| **Database & Persistence** | Firestore, Kstore (Mobile Cache), SwiftData, CoreData, SQL                                                     |
+| **Architecture & State**   | Clean Architecture (Domain/DTO/Data), MVVM/MVI, StateFlow & SharedFlow, Reactive Programming                   |
+| **Web & Full-stack**       | JavaScript, HTML5, CSS3, Node.js (Cloud Functions)                                                             |
+| **Design & Tools**         | Figma, Android Studio, Xcode, Git (SourceTree), VSCode                                                         |
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -48,6 +71,7 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
@@ -59,6 +83,7 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![KMP/CMP](https://img.shields.io/badge/KMP%20%2F%20CMP-%23000000.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![KStore](https://img.shields.io/badge/KStore-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -70,6 +95,8 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-FA233B?style=for-the-badge&logo=revenuecat&logoColor=white)
+![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -87,13 +114,15 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 ---
 
 ## 💼 Professional Experience
-- **Independent Creator & Lead Developer**: Leading the development of *Trafet*, managing everything from architecture and serverless backend setup to Play Store deployment.
+
+- **Independent Creator & Lead Developer**: Leading the end-to-end development of _Flavora_ and _Trafet_, managing everything from architecture, AI/backend integration, and localization to Play Store deployment.
 - **iOS Developer**: Developed robust travel applications for the iOS ecosystem using Swift and Objective-C.
 - **Full-stack Web Developer**: Built and maintained multiple web platforms, ensuring seamless performance and responsive design.
 
 ---
 
 ## 📫 Let's Connect!
+
 I am open to **Freelance Projects**, **Collaborations**, or **Technical Consultations**. If you need a reliable developer to bring your idea to life, let's talk!
 
 - 💼 **LinkedIn**: [linkedin.com/in/hezronel](https://www.linkedin.com/in/hezronel)
@@ -105,4 +134,3 @@ I am open to **Freelance Projects**, **Collaborations**, or **Technical Consulta
 <p align="center">
   <i>"Building the future, one commit at a time."</i>
 </p>
-
