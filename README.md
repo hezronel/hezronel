@@ -14,9 +14,9 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 - 🤖 **AI Integration**: Recipe generation and conversational recipe tweaking powered by **Google Gemini**, with server-side prompt orchestration via Supabase Edge Functions.
 - 🏗️ **Architecture**: Clean, modular KMP codebase with **Koin** for dependency injection and **Room** for offline-first local persistence.
 - 👨‍🍳 **Core Features**: AI recipe generation, chat-like **Tweak Recipe** iteration, guided **Cooking Mode**, recipe saving & filtering, and **Share Recipe** with App Links deep linking.
-- 🌍 **Global-ready**: Supports 6 languages (English, German, French, Spanish, Italian, Indonesian) targeting the US, Canadian, and European markets.
 - 💳 **Monetization**: In-app purchases and entitlements managed with **RevenueCat KMP**.
 - 📡 **Infrastructure**: Firebase Hosting for App Links verification (`assetlinks.json`) and web presence.
+- 🛠️ **Tools**: Android Studio, Xcode, VSCode, Git, SourceTree
 
 > [!TIP]
 > **Flavora** is now available on Android! Get the latest version directly from the Play Store.
