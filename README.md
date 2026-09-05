@@ -6,27 +6,27 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 
 ---
 
-## 🍳 Featured Project: Flavora
+## 🍳 Featured Project: Meal7
 
-**Flavora** is an **AI-powered recipe generator** that turns ingredients, preferences, and dietary needs into personalized, step-by-step recipes. Built to serve a global audience from day one, with a production-grade backend and a monetization-ready architecture.
+**Meal7** is an **AI-powered meal planner and recipe keeper** that turns ingredients, links, photos, or a few typed words into complete recipes — then helps you plan the week, build a grocery list, and cook hands-free, with nutrition tracked automatically along the way.
 
 - 🧪 **Tech Stack**: Kotlin Multiplatform (KMP), Jetpack Compose, Supabase (Auth, Postgres, Edge Functions), Room, Koin.
-- 🤖 **AI Integration**: Recipe generation and conversational recipe tweaking powered by **Google Gemini**, with server-side prompt orchestration via Supabase Edge Functions.
+- 🤖 **AI Integration**: Recipe generation from ingredients, URLs, or images, plus conversational recipe tweaking, powered by **Google Gemini** with server-side prompt orchestration via Supabase Edge Functions.
 - 🏗️ **Architecture**: Clean, modular KMP codebase with **Koin** for dependency injection and **Room** for offline-first local persistence.
-- 👨‍🍳 **Core Features**: AI recipe generation, chat-like **Tweak Recipe** iteration, guided **Cooking Mode**, recipe saving & filtering, and **Share Recipe** with App Links deep linking.
+- 👨‍🍳 **Core Features**: Recipe import (URL, images, or from scratch), AI recipe generation & tweaking, a **weekly meal planner** with multiple plans and nutrition goals, an auto-grouped **grocery list**, guided **Cooking Mode**, and **Share Recipe** with App Links deep linking.
 - 💳 **Monetization**: In-app purchases and entitlements managed with **RevenueCat KMP**.
-- 📡 **Infrastructure**: Firebase Hosting for App Links verification (`assetlinks.json`) and web presence.
-- 🛠️ **Tools**: Android Studio, Xcode, VSCode, Git, SourceTree
+- 📡 **Infrastructure**: Firebase Hosting for deep-link verification (Android App Links & iOS Universal Links) and web presence, with a **Firebase Cloud Function** server-rendering shared recipe pages (meta tags & JSON-LD) for rich link previews and SEO.
+- 🛠️ **Tools**: Android Studio, Xcode, VSCode, Claude Code, Git, SourceTree
 
 > [!TIP]
-> **Flavora** is now available on Android! Get the latest version directly from the Play Store.
+> **Meal7** is now available on Android and iOS!
 >
-> - **Android:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.hezronel.flavora)
-> - **iOS:** Slated for release following the Android growth phase.
+> - **Android:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.hezronel.meal)
+> - **iOS:** [Download on the App Store](https://apps.apple.com/app/id6802175433)
 
 ---
 
-## 🚀 Featured Project: Trafet
+## 🚀 Trafet
 
 **Trafet** is a high-performance **Map & Travel** assistant. It demonstrates a robust implementation of **Compose Multiplatform (CMP)** with a strong focus on shared business logic and reactive UI.
 
@@ -37,7 +37,7 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 - ⚙️ **Advanced Backend**: Utilizes **Google Cloud Tasks** for automated Firestore updates and triggered **Push Notifications**, ensuring reliable background processing.
 - 📦 **Offline Capabilities**: Supports offline route and map viewing by caching critical data using **Kstore**.
 - 💳 **Monetization**: Production-ready In-App Purchase (IAP) integration powered by **RevenueCat**.
-- 🛠️ **Tools**: Android Studio, Xcode, VSCode, Figma, Git, SourceTree
+- 🛠️ **Tools**: Android Studio, Xcode, VSCode, Claude Code, Figma, Git, SourceTree
 
 > [!TIP]
 > **Trafet** is now available on Android! Get the latest version directly from the Play Store.
@@ -51,12 +51,12 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 
 | Category                   | Skills & Technologies                                                                                          |
 | :------------------------- | :------------------------------------------------------------------------------------------------------------- |
-| **Mobile (Native/Hybrid)** | Kotlin (Jetpack Compose), Swift (SwiftUI), Compose Multiplatform (CMP/KMP), Objective-C                        |
-| **Backend & Cloud**        | Node.js (Cloud Functions), Google Cloud Tasks, Firebase (Auth, Messaging, Remote Config), REST API Integration |
-| **Database & Persistence** | Firestore, Kstore (Mobile Cache), SwiftData, CoreData, SQL                                                     |
+| **Mobile (Native/Hybrid)** | Kotlin (Jetpack Compose), Swift (SwiftUI), Kotlin Multiplatform (KMP/CMP), Objective-C                         |
+| **Backend & Cloud**        | Node.js (Cloud Functions), TypeScript (Supabase Edge Functions), Google Cloud Tasks, Firebase (Auth, Messaging, Remote Config), REST API Integration |
+| **Database & Persistence** | Firestore, Room, DataStore, Kstore (Mobile Cache), SwiftData, CoreData, SQL                                    |
 | **Architecture & State**   | Clean Architecture (Domain/DTO/Data), MVVM/MVI, StateFlow & SharedFlow, Reactive Programming                   |
 | **Web & Full-stack**       | JavaScript, HTML5, CSS3, Node.js (Cloud Functions)                                                             |
-| **Design & Tools**         | Figma, Android Studio, Xcode, Git (SourceTree), VSCode                                                         |
+| **Design & Tools**         | Figma, Android Studio, Xcode, Claude Code, Git (SourceTree), VSCode                                             |
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -67,6 +67,7 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![DataStore](https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -115,7 +116,7 @@ I am a **Multiplatform Mobile & Full-stack Engineer** specializing in building h
 
 ## 💼 Professional Experience
 
-- **Independent Creator & Lead Developer**: Leading the end-to-end development of _Flavora_ and _Trafet_, managing everything from architecture, AI/backend integration, and localization to Play Store deployment.
+- **Independent Creator & Lead Developer**: Leading the end-to-end development of _Meal7_ and _Trafet_, managing everything from architecture, AI/backend integration, and localization to App Store & Play Store deployment.
 - **iOS Developer**: Developed robust travel applications for the iOS ecosystem using Swift and Objective-C.
 - **Full-stack Web Developer**: Built and maintained multiple web platforms, ensuring seamless performance and responsive design.
 
